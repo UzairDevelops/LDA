@@ -1,0 +1,1203 @@
+Downloaded Papers Metadata
+==================================================
+
+1. Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty
+   ID: 2512.21336v1
+   Authors: Ziyu Chen, Xinbei Jiang, Peng Sun...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI, cs.LG
+
+2. Autonomous Uncertainty Quantification for Computational Point-of-care Sensors
+   ID: 2512.21335v1
+   Authors: Artem Goncharov, Rajesh Ghosh, Hyou-Arm Joung...
+   Date: 2025-12-24
+   Categories: physics.med-ph, cs.LG, physics.app-ph, physics.bio-ph
+
+3. C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling
+   ID: 2512.21332v1
+   Authors: Jin Qin, Zihan Liao, Ziyin Zhang...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI
+
+4. Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks
+   ID: 2512.21329v1
+   Authors: Xinhe Wang, Jin Huang, Xingjian Zhang...
+   Date: 2025-12-24
+   Categories: cs.CL
+
+5. Measuring all the noises of LLM Evals
+   ID: 2512.21326v1
+   Authors: Sida Wang
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI, cs.CL, stat.ML
+
+6. Parallel Token Prediction for Language Models
+   ID: 2512.21323v1
+   Authors: Felix Draxler, Justus Will, Farrin Marouf Sofian...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.LG
+
+7. Variationally correct operator learning: Reduced basis neural operator with a posteriori error estimation
+   ID: 2512.21319v1
+   Authors: Yuan Qiu, Wolfgang Dahmen, Peng Chen
+   Date: 2025-12-24
+   Categories: math.NA, cs.LG
+
+8. Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks
+   ID: 2512.21316v1
+   Authors: Ali Merali
+   Date: 2025-12-24
+   Categories: econ.GN, cs.AI, cs.HC
+
+9. Does the Data Processing Inequality Reflect Practice? On the Utility of Low-Level Tasks
+   ID: 2512.21315v1
+   Authors: Roy Turgeman, Tom Tirer
+   Date: 2025-12-24
+   Categories: cs.LG, cs.CV, stat.ML
+
+10. Learning to Solve PDEs on Neural Shape Representations
+   ID: 2512.21311v1
+   Authors: Lilian Welschinger, Yilin Liu, Zican Wang...
+   Date: 2025-12-24
+   Categories: cs.LG
+
+11. Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering
+   ID: 2512.21301v1
+   Authors: Abdullah G. Elafifi, Basma Mamdouh, Mariam Hanafy...
+   Date: 2025-12-24
+   Categories: cs.LG, q-bio.QM
+
+12. Model Merging via Multi-Teacher Knowledge Distillation
+   ID: 2512.21288v1
+   Authors: Seyed Arshan Dalili, Mehrdad Mahdavi
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI
+
+13. SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance
+   ID: 2512.21280v1
+   Authors: Divij Dudeja, Mayukha Pal
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI
+
+14. ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling
+   ID: 2512.21257v1
+   Authors: Chuan Wang, Gaoming Yang, Han Wu...
+   Date: 2025-12-24
+   Categories: cs.IR, cs.CL
+
+15. Learning Factors in AI-Augmented Education: A Comparative Study of Middle and High School Students
+   ID: 2512.21246v1
+   Authors: Gaia Ebli, Bianca Raimondi, Maurizio Gabbrielli
+   Date: 2025-12-24
+   Categories: cs.HC, cs.AI
+
+16. LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation
+   ID: 2512.21243v1
+   Authors: Anatoly O. Onishchenko, Alexey K. Kovalev, Aleksandr I. Panov
+   Date: 2025-12-24
+   Categories: cs.RO, cs.AI, cs.LG
+
+17. Improving the Convergence Rate of Ray Search Optimization for Query-Efficient Hard-Label Attacks
+   ID: 2512.21241v1
+   Authors: Xinjie Xu, Shuyu Cheng, Dongwei Xu...
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI, cs.CR, cs.CV
+
+18. Assessing the Software Security Comprehension of Large Language Models
+   ID: 2512.21238v1
+   Authors: Mohammed Latif Siddiq, Natalie Sekerak, Antonio Karam...
+   Date: 2025-12-24
+   Categories: cs.SE, cs.CR, cs.LG
+
+19. Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking
+   ID: 2512.21236v1
+   Authors: Yifan Huang, Xiaojun Jia, Wenbo Guo...
+   Date: 2025-12-24
+   Categories: cs.CR, cs.AI, cs.SE
+
+20. MiST: Understanding the Role of Mid-Stage Scientific Training in Developing Chemical Reasoning Models
+   ID: 2512.21231v1
+   Authors: Andres M Bran, Tong Xie, Shai Pranesh...
+   Date: 2025-12-24
+   Categories: cs.LG, cond-mat.mtrl-sci
+
+21. PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation
+   ID: 2512.21227v1
+   Authors: Xiao-Qi Han, Ze-Feng Gao, Peng-Jie Guo...
+   Date: 2025-12-24
+   Categories: cond-mat.mtrl-sci, cs.AI
+
+22. Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval
+   ID: 2512.21221v1
+   Authors: Dao Sy Duy Minh, Huynh Trung Kiet, Nguyen Lam Phu Quy...
+   Date: 2025-12-24
+   Categories: cs.CV, cs.AI
+
+23. RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic
+   ID: 2512.21220v1
+   Authors: Le Wang, Zonghao Ying, Xiao Yang...
+   Date: 2025-12-24
+   Categories: cs.AI, cs.CV, cs.RO
+
+24. Causal-driven attribution (CDA): Estimating channel influence without user-level data
+   ID: 2512.21211v1
+   Authors: Georgios Filippou, Boi Mai Quach, Diana Lenghel...
+   Date: 2025-12-24
+   Categories: stat.ML, cs.LG
+
+25. Analytic and Variational Stability of Deep Learning Systems
+   ID: 2512.21208v1
+   Authors: Ronald Katende
+   Date: 2025-12-24
+   Categories: cs.LG, math.DS, math.OC
+
+26. SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation
+   ID: 2512.21204v1
+   Authors: Mahi Luthra, Jiayi Shen, Maxime Poli...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI
+
+27. Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation
+   ID: 2512.21201v1
+   Authors: Yu He, Da Huang, Zhenyang Liu...
+   Date: 2025-12-24
+   Categories: cs.RO, cs.AI, cs.CV
+
+28. A Unified Framework for EEG Seizure Detection Using Universum-Integrated Generalized Eigenvalues Proximal Support Vector Machine
+   ID: 2512.21170v1
+   Authors: Yogesh Kumar, Vrushank Ahire, M. A. Ganaie
+   Date: 2025-12-24
+   Categories: cs.LG
+
+29. A Community-Enhanced Graph Representation Model for Link Prediction
+   ID: 2512.21166v1
+   Authors: Lei Wang, Darong Lai
+   Date: 2025-12-24
+   Categories: cs.SI, cs.LG
+
+30. BALLAST: Bandit-Assisted Learning for Latency-Aware Stable Timeouts in Raft
+   ID: 2512.21165v1
+   Authors: Qizhi Wang
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI
+
+31. ElfCore: A 28nm Neural Processor Enabling Dynamic Structured Sparse Training and Online Self-Supervised Learning with Activity-Dependent Weight Update
+   ID: 2512.21153v1
+   Authors: Zhe Su, Giacomo Indiveri
+   Date: 2025-12-24
+   Categories: cs.AR, cs.LG
+
+32. MODE: Multi-Objective Adaptive Coreset Selection
+   ID: 2512.21152v1
+   Authors: Tanmoy Mukherjee, Pierre Marquis, Zied Bouraoui
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI
+
+33. TGC-Net: A Structure-Aware and Semantically-Aligned Framework for Text-Guided Medical Image Segmentation
+   ID: 2512.21135v1
+   Authors: Gaoren Lin, Huangxuan Zhao, Yuan Xiong...
+   Date: 2025-12-24
+   Categories: cs.CV, cs.AI
+
+34. AutoBaxBuilder: Bootstrapping Code Security Benchmarking
+   ID: 2512.21132v1
+   Authors: Tobias von Arx, Niels Mündler, Mark Vero...
+   Date: 2025-12-24
+   Categories: cs.CR, cs.AI, cs.LG, cs.PL
+
+35. Active inference and artificial reasoning
+   ID: 2512.21129v1
+   Authors: Karl Friston, Lancelot Da Costa, Alexander Tschantz...
+   Date: 2025-12-24
+   Categories: q-bio.NC, physics.data-an, stat.ML
+
+36. A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care
+   ID: 2512.21127v1
+   Authors: Oliver Normand, Esther Borsi, Mitch Fruin...
+   Date: 2025-12-24
+   Categories: cs.AI
+
+37. ClarifyMT-Bench: Benchmarking and Improving Multi-Turn Clarification for Conversational Large Language Models
+   ID: 2512.21120v1
+   Authors: Sichun Luo, Yi Huang, Mukai Li...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.IR
+
+38. STLDM: Spatio-Temporal Latent Diffusion Model for Precipitation Nowcasting
+   ID: 2512.21118v1
+   Authors: Shi Quan Foo, Chi-Ho Wong, Zhihan Gao...
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI, cs.CV
+
+39. A Mechanistic Analysis of Transformers for Dynamical Systems
+   ID: 2512.21113v1
+   Authors: Gregory Duthé, Nikolaos Evangelou, Wei Liu...
+   Date: 2025-12-24
+   Categories: cs.LG, cs.CE
+
+40. Statistical and computational challenges in ranking
+   ID: 2512.21111v1
+   Authors: Alexandra Carpentier, Nicolas Verzelen
+   Date: 2025-12-24
+   Categories: math.ST, stat.ML
+
+41. Beyond Context: Large Language Models Failure to Grasp Users Intent
+   ID: 2512.21110v1
+   Authors: Ahmed M. Hussain, Salahuddin Salahuddin, Panos Papadimitratos
+   Date: 2025-12-24
+   Categories: cs.AI, cs.CL, cs.CR, cs.CY
+
+42. Semi-Supervised Learning for Large Language Models Safety and Content Moderation
+   ID: 2512.21107v1
+   Authors: Eduard Stefan Dinuta, Iustin Sirbu, Traian Rebedea
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI, cs.LG
+
+43. Semantic Refinement with LLMs for Graph Representations
+   ID: 2512.21106v1
+   Authors: Safal Thapaliya, Zehong Wang, Jiazheng Li...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI, cs.LG
+
+44. Shared Representation Learning for High-Dimensional Multi-Task Forecasting under Resource Contention in Cloud-Native Backends
+   ID: 2512.21102v1
+   Authors: Zixiao Huang, Jixiao Yang, Sijia Li...
+   Date: 2025-12-24
+   Categories: cs.LG
+
+45. TexAvatars : Hybrid Texel-3D Representations for Stable Rigging of Photorealistic Gaussian Head Avatars
+   ID: 2512.21099v1
+   Authors: Jaeseong Lee, Junyeong Ahn, Taewoong Kang...
+   Date: 2025-12-24
+   Categories: cs.GR, cs.AI, cs.CV
+
+46. Hierarchical Modeling Approach to Fast and Accurate Table Recognition
+   ID: 2512.21083v1
+   Authors: Takaya Kawakatsu
+   Date: 2025-12-24
+   Categories: cs.CV, cs.LG
+
+47. Dyna-Style Reinforcement Learning Modeling and Control of Non-linear Dynamics
+   ID: 2512.21081v1
+   Authors: Karim Abdelsalam, Zeyad Gamal, Ayman El-Badawy
+   Date: 2025-12-24
+   Categories: eess.SY, cs.LG
+
+48. LLM Personas as a Substitute for Field Experiments in Method Benchmarking
+   ID: 2512.21080v1
+   Authors: Enoch Hyunwook Kang
+   Date: 2025-12-24
+   Categories: cs.AI, cs.LG, econ.EM
+
+49. Blurb-Refined Inference from Crowdsourced Book Reviews using Hierarchical Genre Mining with Dual-Path Graph Convolutions
+   ID: 2512.21076v1
+   Authors: Suraj Kumar, Utsav Kumar Nareti, Soumi Chattopadhyay...
+   Date: 2025-12-24
+   Categories: cs.IR, cs.LG, cs.MM
+
+50. Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics
+   ID: 2512.21075v1
+   Authors: Zihan Yao, Ruoyu Wu, Tianxiang Gao
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI, math.PR, stat.ML
+
+51. Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation
+   ID: 2512.21066v1
+   Authors: Tomoaki Yamaguchi, Yutong Zhou, Masahiro Ryo...
+   Date: 2025-12-24
+   Categories: cs.AI, cs.HC
+
+52. DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors
+   ID: 2512.21054v1
+   Authors: Kaustubh Kundu, Hrishav Bakul Barua, Lucy Robertson-Bell...
+   Date: 2025-12-24
+   Categories: cs.CV, cs.AI, cs.HC, cs.LG
+
+53. zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy
+   ID: 2512.21048v1
+   Authors: Savvy Sharma, George Petrovic, Sarthak Kaushik
+   Date: 2025-12-24
+   Categories: cs.CR, cs.DC, cs.LG
+
+54. Agentic Multi-Persona Framework for Evidence-Aware Fake News Detection
+   ID: 2512.21039v1
+   Authors: Roopa Bukke, Soumya Pandey, Suraj Kumar...
+   Date: 2025-12-24
+   Categories: cs.IR, cs.LG
+
+55. Critical Points of Degenerate Metrics on Algebraic Varieties: A Tale of Overparametrization
+   ID: 2512.21029v1
+   Authors: Giovanni Luca Marchetti, Erin Connelly, Paul Breiding...
+   Date: 2025-12-24
+   Categories: math.AG, cs.LG
+
+56. Policy-Conditioned Policies for Multi-Agent Task Solving
+   ID: 2512.21024v1
+   Authors: Yue Lin, Shuhui Zhu, Wenhao Li...
+   Date: 2025-12-24
+   Categories: cs.GT, cs.AI
+
+57. Towards Better Search with Domain-Aware Text Embeddings for C2C Marketplaces
+   ID: 2512.21021v1
+   Authors: Andre Rusli, Miao Cao, Shoma Ishimoto...
+   Date: 2025-12-24
+   Categories: cs.IR, cs.LG
+
+58. Enhancing diffusion models with Gaussianization preprocessing
+   ID: 2512.21020v1
+   Authors: Li Cunzhi, Louis Kang, Hideaki Shimazaki
+   Date: 2025-12-24
+   Categories: stat.ML, cs.LG
+
+59. Rethinking Supervised Fine-Tuning: Emphasizing Key Answer Tokens for Improved LLM Accuracy
+   ID: 2512.21017v1
+   Authors: Xiaofeng Shi, Qian Kou, Yuduo Li...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI
+
+60. LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics
+   ID: 2512.21010v1
+   Authors: Jiashuo Liu, Jiayun Wu, Chunjie Wu...
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI, cs.PF
+
+61. Learning from Neighbors with PHIBP: Predicting Infectious Disease Dynamics in Data-Sparse Environments
+   ID: 2512.21005v1
+   Authors: Edwin Fong, Lancelot F. James, Juho Lee
+   Date: 2025-12-24
+   Categories: stat.ML, cs.LG, math.PR
+
+62. Distilling the Essence: Efficient Reasoning Distillation via Sequence Truncation
+   ID: 2512.21002v1
+   Authors: Wei-Rui Chen, Vignesh Kothapalli, Ata Fatahibaarzi...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI
+
+63. CoSeNet: A Novel Approach for Optimal Segmentation of Correlation Matrices
+   ID: 2512.21000v1
+   Authors: Alberto. Palomo-Alonso, David Casillas-Perez, Silvia Jimenez-Fernandez...
+   Date: 2025-12-24
+   Categories: cs.LG
+
+64. TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control
+   ID: 2512.20996v1
+   Authors: Yuwei Du, Jun Zhang, Jie Feng...
+   Date: 2025-12-24
+   Categories: cs.AI
+
+65. FinAgent: An Agentic AI Framework Integrating Personal Finance and Nutrition Planning
+   ID: 2512.20991v1
+   Authors: Toqeer Ali Syed, Abdulaziz Alshahrani, Ali Ullah...
+   Date: 2025-12-24
+   Categories: cs.AI, cs.MA
+
+66. A Blockchain-Monitored Agentic AI Architecture for Trusted Perception-Reasoning-Action Pipelines
+   ID: 2512.20985v1
+   Authors: Salman Jan, Hassan Ali Razzaqi, Ali Akarma...
+   Date: 2025-12-24
+   Categories: cs.AI, cs.MA
+
+67. Automatic Replication of LLM Mistakes in Medical Conversations
+   ID: 2512.20983v1
+   Authors: Oleksii Proniakin, Diego Fajardo, Ruslan Nazarenko...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI, cs.LG
+
+68. GenTSE: Enhancing Target Speaker Extraction via a Coarse-to-Fine Generative Language Model
+   ID: 2512.20978v1
+   Authors: Haoyang Li, Xuyi Zhuang, Azmat Adnan...
+   Date: 2025-12-24
+   Categories: eess.AS, cs.AI, cs.LG
+
+69. Generalised Linear Models in Deep Bayesian RL with Learnable Basis Functions
+   ID: 2512.20974v1
+   Authors: Jingyang You, Hanna Kurniawati
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI, cs.RO
+
+70. Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality
+   ID: 2512.20968v1
+   Authors: Sirui Chen, Jingji Chen, Siqi Zhu...
+   Date: 2025-12-24
+   Categories: cs.DC, cs.AI
+
+71. Deadline-Aware Online Scheduling for LLM Fine-Tuning with Spot Market Predictions
+   ID: 2512.20967v1
+   Authors: Linggao Kong, Yuedong Xu, Lei Jiao...
+   Date: 2025-12-24
+   Categories: cs.DC, cs.LG
+
+72. Generalization of Diffusion Models Arises with a Balanced Representation Space
+   ID: 2512.20963v1
+   Authors: Zekai Zhang, Xiao Li, Xiang Li...
+   Date: 2025-12-24
+   Categories: cs.LG, cs.CV
+
+73. Can Agentic AI Match the Performance of Human Data Scientists?
+   ID: 2512.20959v1
+   Authors: An Luo, Jin Du, Fangqiao Tian...
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI, stat.ME
+
+74. ReACT-Drug: Reaction-Template Guided Reinforcement Learning for de novo Drug Design
+   ID: 2512.20958v1
+   Authors: R Yadunandan, Nimisha Ghosh
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI
+
+75. One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents
+   ID: 2512.20957v1
+   Authors: Zhaoxi Zhang, Yitong Duan, Yanzhi Zhang...
+   Date: 2025-12-24
+   Categories: cs.SE, cs.AI
+
+76. Solving Functional PDEs with Gaussian Processes and Applications to Functional Renormalization Group Equations
+   ID: 2512.20956v1
+   Authors: Xianjin Yang, Matthieu Darcy, Matthew Hudes...
+   Date: 2025-12-24
+   Categories: cs.LG
+
+77. Reflection Pretraining Enables Token-Level Self-Correction in Biological Sequence Models
+   ID: 2512.20954v1
+   Authors: Xiang Zhang, Jiaqi Wei, Yuejin Yang...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI
+
+78. MultiMind at SemEval-2025 Task 7: Crosslingual Fact-Checked Claim Retrieval via Multi-Source Alignment
+   ID: 2512.20950v1
+   Authors: Mohammad Mahdi Abootorabi, Alireza Ghahramani Kure, Mohammadali Mohammadkhani...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI, cs.IR, cs.LG
+
+79. Neural Probe-Based Hallucination Detection for Large Language Models
+   ID: 2512.20949v1
+   Authors: Shize Liang, Hongzhi Wang
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI
+
+80. Foundation Model-based Evaluation of Neuropsychiatric Disorders: A Lifespan-Inclusive, Multi-Modal, and Multi-Lingual Study
+   ID: 2512.20948v1
+   Authors: Zhongren Dong, Haotian Guo, Weixiang Xu...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.SD
+
+81. AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences
+   ID: 2512.20943v1
+   Authors: Zhe Wang, Jinghang Li, Yifei Zhu
+   Date: 2025-12-24
+   Categories: cs.GR, cs.DC, cs.LG, cs.MM, cs.NI, eess.IV
+
+82. A Multi-fidelity Double-Delta Wing Dataset and Empirical Scaling Laws for GNN-based Aerodynamic Field Surrogate
+   ID: 2512.20941v1
+   Authors: Yiren Shen, Juan J. Alonso
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI, physics.flu-dyn
+
+83. Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning
+   ID: 2512.20934v1
+   Authors: Shengguang Wu, Xiaohan Wang, Yuhui Zhang...
+   Date: 2025-12-24
+   Categories: cs.CV, cs.AI, cs.CL, cs.MA
+
+84. Guardrailed Elasticity Pricing: A Churn-Aware Forecasting Playbook for Subscription Strategy
+   ID: 2512.20932v1
+   Authors: Deepit Sapru
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI
+
+85. Decoding Predictive Inference in Visual Language Processing via Spatiotemporal Neural Coherence
+   ID: 2512.20929v1
+   Authors: Sean C. Borneman, Julia Krebs, Ronnie B. Wilbur...
+   Date: 2025-12-24
+   Categories: q-bio.NC, cs.CL
+
+86. Clever Hans in Chemistry: Chemist Style Signals Confound Activity Prediction on Public Benchmarks
+   ID: 2512.20924v1
+   Authors: Andrew D. Blevins, Ian K. Quigley
+   Date: 2025-12-24
+   Categories: q-bio.BM, cs.LG, physics.chem-ph
+
+87. RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks
+   ID: 2512.20920v1
+   Authors: Ningyuan Liu, Jing Yang, Kaitong Cai...
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI
+
+88. MMSRARec: Summarization and Retrieval Augumented Sequential Recommendation Based on Multimodal Large Language Model
+   ID: 2512.20916v1
+   Authors: Haoyu Wang, Yitong Wang, Jining Wang
+   Date: 2025-12-24
+   Categories: cs.IR, cs.MM
+
+89. Towards a General Framework for Predicting and Explaining the Hardness of Graph-based Combinatorial Optimization Problems using Machine Learning and Association Rule Mining
+   ID: 2512.20915v1
+   Authors: Bharat Sharman, Elkafi Hassini
+   Date: 2025-12-24
+   Categories: cs.LG, math.CO
+
+90. Invariant Feature Extraction Through Conditional Independence and the Optimal Transport Barycenter Problem: the Gaussian case
+   ID: 2512.20914v1
+   Authors: Ian Bounos, Pablo Groisman, Mariela Sued...
+   Date: 2025-12-24
+   Categories: math.ST, stat.AP, stat.ML
+
+91. Where Did This Sentence Come From? Tracing Provenance in LLM Reasoning Distillation
+   ID: 2512.20908v1
+   Authors: Kaiyuan Liu, Shaotian Yan, Rui Miao...
+   Date: 2025-12-24
+   Categories: cs.CL
+
+92. DiEC: Diffusion Embedded Clustering
+   ID: 2512.20905v1
+   Authors: Haidong Hu
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI
+
+93. Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction
+   ID: 2512.20902v1
+   Authors: Siqi Mu, Shuo Wen, Yang Lu...
+   Date: 2025-12-24
+   Categories: cs.NI, cs.AI
+
+94. DGSAN: Dual-Graph Spatiotemporal Attention Network for Pulmonary Nodule Malignancy Prediction
+   ID: 2512.20898v1
+   Authors: Xiao Yu, Zhaojie Fang, Guanyu Zhou...
+   Date: 2025-12-24
+   Categories: cs.CV, cs.AI
+
+95. Accurate and Diverse Recommendations via Propensity-Weighted Linear Autoencoders
+   ID: 2512.20896v1
+   Authors: Kazuma Onishi, Katsuhiko Hayashi, Hidetaka Kamigaito
+   Date: 2025-12-24
+   Categories: cs.IR
+
+96. Time-Efficient Evaluation and Enhancement of Adversarial Robustness in Deep Neural Networks
+   ID: 2512.20893v1
+   Authors: Runqi Lin
+   Date: 2025-12-24
+   Categories: cs.LG
+
+97. From GNNs to Symbolic Surrogates via Kolmogorov-Arnold Networks for Delay Prediction
+   ID: 2512.20885v1
+   Authors: Sami Marouani, Kamal Singh, Baptiste Jeudy...
+   Date: 2025-12-24
+   Categories: cs.LG, cs.NI
+
+98. The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents
+   ID: 2512.20884v1
+   Authors: Zan-Kai Chong, Hiroyuki Ohsaki, Bryan Ng
+   Date: 2025-12-24
+   Categories: cs.AI
+
+99. Architectural Trade-offs in Small Language Models Under Compute Constraints
+   ID: 2512.20877v1
+   Authors: Shivraj Singh Bhatti
+   Date: 2025-12-24
+   Categories: cs.CL, cs.LG
+
+100. Better Call Graphs: A New Dataset of Function Call Graphs for Malware Classification
+   ID: 2512.20872v1
+   Authors: Jakir Hossain, Gurvinder Singh, Lukasz Ziarek...
+   Date: 2025-12-24
+   Categories: cs.CR, cs.LG
+
+101. Lightweight framework for underground pipeline recognition and spatial localization based on multi-view 2D GPR images
+   ID: 2512.20866v1
+   Authors: Haotian Lv, Chao Li, Jiangbo Dai...
+   Date: 2025-12-24
+   Categories: cs.CV, cs.AI
+
+102. Robustness Certificates for Neural Networks against Adversarial Attacks
+   ID: 2512.20865v1
+   Authors: Sara Taheri, Mahalakshmi Sabanayagam, Debarghya Ghoshdastidar...
+   Date: 2025-12-24
+   Categories: cs.LG, eess.SY
+
+103. Memory-Efficient Acceleration of Block Low-Rank Foundation Models on Resource Constrained GPUs
+   ID: 2512.20861v1
+   Authors: Pierre Abillama, Changwoo Lee, Juechu Dong...
+   Date: 2025-12-24
+   Categories: cs.LG, cs.AI
+
+104. NVIDIA Nemotron 3: Efficient and Open Intelligence
+   ID: 2512.20856v1
+   Authors: NVIDIA, :, Aaron Blakeman...
+   Date: 2025-12-24
+   Categories: cs.CL, cs.AI, cs.LG
+
+105. How important is Recall for Measuring Retrieval Quality?
+   ID: 2512.20854v1
+   Authors: Shelly Schwartz, Oleg Vasilyev, Randy Sawaya
+   Date: 2025-12-24
+   Categories: cs.CL, cs.IR
+
+106. Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning
+   ID: 2512.20848v1
+   Authors: NVIDIA, :, Aaron Blakeman...
+   Date: 2025-12-23
+   Categories: cs.CL, cs.AI, cs.LG
+
+107. MAR:Multi-Agent Reflexion Improves Reasoning Abilities in LLMs
+   ID: 2512.20845v1
+   Authors: Onat Ozer, Grace Wu, Yuchen Wang...
+   Date: 2025-12-23
+   Categories: cs.AI, cs.MA
+
+108. CHAMMI-75: pre-training multi-channel models with heterogeneous microscopy images
+   ID: 2512.20833v1
+   Authors: Vidit Agrawal, John Peters, Tyler N. Thompson...
+   Date: 2025-12-23
+   Categories: cs.CV, cs.LG
+
+109. Context-Sensitive Abstractions for Reinforcement Learning with Parameterized Actions
+   ID: 2512.20831v1
+   Authors: Rashmeet Kaur Nayyar, Naman Shah, Siddharth Srivastava
+   Date: 2025-12-23
+   Categories: cs.AI, cs.LG
+
+110. NotSoTiny: A Large, Living Benchmark for RTL Code Generation
+   ID: 2512.20823v1
+   Authors: Razine Moundir Ghorab, Emanuele Parisi, Cristian Gutierrez...
+   Date: 2025-12-23
+   Categories: cs.AR, cs.AI
+
+111. MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs
+   ID: 2512.20822v1
+   Authors: Zhan Qu, Michael Färber
+   Date: 2025-12-23
+   Categories: cs.CL, cs.AI
+
+112. Defending against adversarial attacks using mixture of experts
+   ID: 2512.20821v1
+   Authors: Mohammad Meymani, Roozbeh Razavi-Far
+   Date: 2025-12-23
+   Categories: cs.LG
+
+113. EssayCBM: Rubric-Aligned Concept Bottleneck Models for Transparent Essay Grading
+   ID: 2512.20817v1
+   Authors: Kumar Satvik Chaudhary, Chengshuai Zhao, Fan Zhang...
+   Date: 2025-12-23
+   Categories: cs.CL
+
+114. FedMPDD: Communication-Efficient Federated Learning with Privacy Preservation Attributes via Projected Directional Derivative
+   ID: 2512.20814v1
+   Authors: Mohammadreza Rostami, Solmaz S. Kia
+   Date: 2025-12-23
+   Categories: cs.LG
+
+115. GraphFire-X: Physics-Informed Graph Attention Networks and Structural Gradient Boosting for Building-Scale Wildfire Preparedness at the Wildland-Urban Interface
+   ID: 2512.20813v1
+   Authors: Miguel Esparza, Vamshi Battal, Ali Mostafavi
+   Date: 2025-12-23
+   Categories: cs.LG
+
+116. Semantic Deception: When Reasoning Models Can't Compute an Addition
+   ID: 2512.20812v1
+   Authors: Nathaniël de Leeuw, Marceau Nahon, Mathis Reymond...
+   Date: 2025-12-23
+   Categories: cs.CL
+
+117. Weighted MCC: A Robust Measure of Multiclass Classifier Performance for Observations with Individual Weights
+   ID: 2512.20811v1
+   Authors: Rommel Cortez, Bala Krishnamoorthy
+   Date: 2025-12-23
+   Categories: stat.ML, cs.LG
+
+118. Safety Alignment of LMs via Non-cooperative Games
+   ID: 2512.20806v1
+   Authors: Anselm Paulus, Ilia Kulikov, Brandon Amos...
+   Date: 2025-12-23
+   Categories: cs.AI
+
+119. A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents
+   ID: 2512.20798v1
+   Authors: Miles Q. Li, Benjamin C. M. Fung, Martin Weiss...
+   Date: 2025-12-23
+   Categories: cs.AI
+
+120. Measuring Mechanistic Independence: Can Bias Be Removed Without Erasing Demographics?
+   ID: 2512.20796v1
+   Authors: Zhengyang Shan, Aaron Mueller
+   Date: 2025-12-23
+   Categories: cs.CL
+
+121. Investigating Model Editing for Unlearning in Large Language Models
+   ID: 2512.20794v1
+   Authors: Shariqah Hossain, Lalana Kagal
+   Date: 2025-12-23
+   Categories: cs.CL
+
+122. X-GridAgent: An LLM-Powered Agentic AI System for Assisting Power Grid Analysis
+   ID: 2512.20789v1
+   Authors: Yihan, Wen, Xin Chen
+   Date: 2025-12-23
+   Categories: eess.SY, cs.AI
+
+123. Symbolic regression for defect interactions in 2D materials
+   ID: 2512.20785v1
+   Authors: Mikhail Lazarev, Andrey Ustyuzhanin
+   Date: 2025-12-23
+   Categories: cs.LG, cond-mat.mtrl-sci
+
+124. NULLBUS: Multimodal Mixed-Supervision for Breast Ultrasound Segmentation via Nullable Global-Local Prompts
+   ID: 2512.20783v1
+   Authors: Raja Mallina, Bryar Shareef
+   Date: 2025-12-23
+   Categories: cs.CV, cs.AI, cs.LG
+
+125. Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints
+   ID: 2512.20781v1
+   Authors: Youjin Jung, Seongwoo Cho, Hyun-seok Min...
+   Date: 2025-12-23
+   Categories: cs.IR
+
+126. Large Language Models Approach Expert Pedagogical Quality in Math Tutoring but Differ in Instructional and Linguistic Profiles
+   ID: 2512.20780v1
+   Authors: Ramatu Oiza Abdulsalam, Segun Aroyehun
+   Date: 2025-12-23
+   Categories: cs.CL, cs.CY
+
+127. Towards Optimal Performance and Action Consistency Guarantees in Dec-POMDPs with Inconsistent Beliefs and Limited Communication
+   ID: 2512.20778v1
+   Authors: Moshe Rafaeli Shimron, Vadim Indelman
+   Date: 2025-12-23
+   Categories: cs.MA, cs.AI, cs.RO
+
+128. Improving Matrix Exponential for Generative AI Flows: A Taylor-Based Approach Beyond Paterson--Stockmeyer
+   ID: 2512.20777v1
+   Authors: Jorge Sastre, Daniel Faronbi, José Miguel Alonso...
+   Date: 2025-12-23
+   Categories: cs.LG, math.NA
+
+129. Adversarial Training for Failure-Sensitive User Simulation in Mental Health Dialogue Optimization
+   ID: 2512.20773v1
+   Authors: Ziyi Zhu, Olivier Tieleman, Caitlin A. Stamatis...
+   Date: 2025-12-23
+   Categories: cs.CL
+
+130. Subgroup Discovery with the Cox Model
+   ID: 2512.20762v1
+   Authors: Zachary Izzo, Iain Melvin
+   Date: 2025-12-23
+   Categories: cs.LG, math.ST, stat.ML
+
+131. TS-Arena Technical Report -- A Pre-registered Live Forecasting Platform
+   ID: 2512.20761v1
+   Authors: Marcel Meyer, Sascha Kaltenpoth, Kevin Zalipski...
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI
+
+132. Generalization of RLVR Using Causal Reasoning as a Testbed
+   ID: 2512.20760v1
+   Authors: Brian Lu, Hongyu Zhao, Shuo Sun...
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI, cs.CL
+
+133. TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior
+   ID: 2512.20757v1
+   Authors: Gül Sena Altıntaş, Malikeh Ehghaghi, Brian Lester...
+   Date: 2025-12-23
+   Categories: cs.CL, cs.LG
+
+134. Bridging Efficiency and Safety: Formal Verification of Neural Networks with Early Exits
+   ID: 2512.20755v1
+   Authors: Yizhak Yisrael Elboher, Avraham Raviv, Amihay Elboher...
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI
+
+135. Stabilizing Multimodal Autoencoders: A Theoretical and Empirical Analysis of Fusion Strategies
+   ID: 2512.20749v1
+   Authors: Diyar Altinses, Andreas Schwung
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI
+
+136. A Physics Informed Neural Network For Deriving MHD State Vectors From Global Active Regions Observations
+   ID: 2512.20747v1
+   Authors: Subhamoy Chatterjee, Mausumi Dikpati
+   Date: 2025-12-23
+   Categories: astro-ph.SR, cs.AI, cs.LG
+
+137. TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection
+   ID: 2512.20746v1
+   Authors: Tony Tran, Bin Hu
+   Date: 2025-12-23
+   Categories: cs.CV, cs.LG
+
+138. AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent
+   ID: 2512.20745v1
+   Authors: Haipeng Luo, Huawen Feng, Qingfeng Sun...
+   Date: 2025-12-23
+   Categories: cs.AI, cs.CL, cs.LG
+
+139. AI-Driven Green Cognitive Radio Networks for Sustainable 6G Communication
+   ID: 2512.20739v1
+   Authors: Anshul Sharma, Shujaatali Badami, Biky Chouhan...
+   Date: 2025-12-23
+   Categories: cs.NI, cs.AI, cs.LG
+
+140. FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs
+   ID: 2512.20732v1
+   Authors: Saeed Mohammadzadeh, Erfan Hamdi, Joel Shor...
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI, cs.SE
+
+141. SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention
+   ID: 2512.20724v1
+   Authors: Alexandros Christoforos, Chadbourne Davis
+   Date: 2025-12-23
+   Categories: cs.CL, cs.AI
+
+142. From artificial to organic: Rethinking the roots of intelligence for digital health
+   ID: 2512.20723v1
+   Authors: Prajwal Ghimire, Keyoumars Ashkan
+   Date: 2025-12-23
+   Categories: cs.AI
+
+143. From Pilots to Practices: A Scoping Review of GenAI-Enabled Personalization in Computer Science Education
+   ID: 2512.20714v1
+   Authors: Iman Reihanian, Yunfei Hou, Qingquan Sun
+   Date: 2025-12-23
+   Categories: cs.AI, cs.CY, cs.HC
+
+144. Real-World Adversarial Attacks on RF-Based Drone Detectors
+   ID: 2512.20712v1
+   Authors: Omer Gazit, Yael Itzhakev, Yuval Elovici...
+   Date: 2025-12-23
+   Categories: cs.CR, cs.LG
+
+145. LongVideoAgent: Multi-Agent Reasoning with Long Videos
+   ID: 2512.20618v1
+   Authors: Runtao Liu, Ziyi Liu, Jiaqi Tang...
+   Date: 2025-12-23
+   Categories: cs.AI, cs.CV, cs.LG, cs.MA
+
+146. Making Large Language Models Efficient Dense Retrievers
+   ID: 2512.20612v1
+   Authors: Yibin Lei, Shwai He, Ang Li...
+   Date: 2025-12-23
+   Categories: cs.IR, cs.CL
+
+147. FedPOD: the deployable units of training for federated learning
+   ID: 2512.20610v2
+   Authors: Daewoon Kim, Si Young Yie, Jae Sung Lee
+   Date: 2025-12-23
+   Categories: cs.CV, cs.LG
+
+148. Saddle-to-Saddle Dynamics Explains A Simplicity Bias Across Neural Network Architectures
+   ID: 2512.20607v1
+   Authors: Yedi Zhang, Andrew Saxe, Peter E. Latham
+   Date: 2025-12-23
+   Categories: cs.LG
+
+149. Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning
+   ID: 2512.20605v2
+   Authors: Seijin Kobayashi, Yanick Schimpf, Maximilian Schlegel...
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI
+
+150. MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts
+   ID: 2512.20604v1
+   Authors: Alexandros Christoforos, Chadbourne Davis
+   Date: 2025-12-23
+   Categories: cs.CL
+
+151. Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs
+   ID: 2512.20595v1
+   Authors: Dhruv Anand, Ehsan Shareghi
+   Date: 2025-12-23
+   Categories: cs.CL, cs.AI, cs.CV
+
+152. Leveraging High-Fidelity Digital Models and Reinforcement Learning for Mission Engineering: A Case Study of Aerial Firefighting Under Perfect Information
+   ID: 2512.20589v1
+   Authors: İbrahim Oğuz Çetinkaya, Sajad Khodadadian, Taylan G. Topçu
+   Date: 2025-12-23
+   Categories: cs.CY, cs.AI, eess.SY, math.OC
+
+153. Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent
+   ID: 2512.20586v1
+   Authors: Humza Nusrat, Luke Francisco, Bing Luo...
+   Date: 2025-12-23
+   Categories: cs.AI, cs.CL, cs.HC
+
+154. Relu and softplus neural nets as zero-sum turn-based games
+   ID: 2512.20582v1
+   Authors: Stephane Gaubert, Yiannis Vlassopoulos
+   Date: 2025-12-23
+   Categories: cs.LG, cs.GT, math.OC
+
+155. Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits
+   ID: 2512.20578v1
+   Authors: Amirhosein Ghasemabadi, Di Niu
+   Date: 2025-12-23
+   Categories: cs.CL
+
+156. Improving ML Training Data with Gold-Standard Quality Metrics
+   ID: 2512.20577v1
+   Authors: Leslie Barrett, Michael W. Sherman
+   Date: 2025-12-23
+   Categories: cs.LG
+
+157. Performative Policy Gradient: Optimality in Performative Reinforcement Learning
+   ID: 2512.20576v1
+   Authors: Debabrota Basu, Udvas Das, Brahim Driss...
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI, math.OC
+
+158. Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs
+   ID: 2512.20573v1
+   Authors: Rui Pan, Zhuofu Chen, Ravi Netravali
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI, cs.DC
+
+159. Distilling to Hybrid Attention Models via KL-Guided Layer Selection
+   ID: 2512.20569v1
+   Authors: Yanhong Li, Songlin Yang, Shawn Tan...
+   Date: 2025-12-23
+   Categories: cs.CL, cs.AI
+
+160. Random Gradient-Free Optimization in Infinite Dimensional Spaces
+   ID: 2512.20566v1
+   Authors: Caio Lins Peixoto, Daniel Csillag, Bernardo F. P. da Costa...
+   Date: 2025-12-23
+   Categories: math.OC, stat.ML
+
+161. LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving
+   ID: 2512.20563v1
+   Authors: Long Nguyen, Micha Fauth, Bernhard Jaeger...
+   Date: 2025-12-23
+   Categories: cs.CV, cs.AI, cs.LG, cs.RO
+
+162. Shallow Neural Networks Learn Low-Degree Spherical Polynomials with Learnable Channel Attention
+   ID: 2512.20562v1
+   Authors: Yingzhen Yang
+   Date: 2025-12-23
+   Categories: stat.ML, cs.LG, math.OC
+
+163. Information-theoretic signatures of causality in Bayesian networks and hypergraphs
+   ID: 2512.20552v1
+   Authors: Sung En Chiang, Zhaolu Liu, Robert L. Peach...
+   Date: 2025-12-23
+   Categories: cs.IT, stat.ML
+
+164. Advancing Multimodal Teacher Sentiment Analysis:The Large-Scale T-MED Dataset & The Effective AAM-TSA Model
+   ID: 2512.20548v1
+   Authors: Zhiyi Duan, Xiangren Wang, Hongyu Yuan...
+   Date: 2025-12-23
+   Categories: cs.AI
+
+165. Over-the-Air Goal-Oriented Communications
+   ID: 2512.20533v1
+   Authors: Kyriakos Stylianopoulos, Paolo Di Lorenzo, George C. Alexandropoulos
+   Date: 2025-12-23
+   Categories: eess.SP, cs.ET, cs.IT, cs.LG
+
+166. ScoreMatchingRiesz: Auto-DML with Infinitesimal Classification
+   ID: 2512.20523v1
+   Authors: Masahiro Kato
+   Date: 2025-12-23
+   Categories: econ.EM, cs.LG, math.ST, stat.ME, stat.ML
+
+167. Benchmarking LLMs for Predictive Applications in the Intensive Care Units
+   ID: 2512.20520v1
+   Authors: Chehak Malhotra, Mehak Gopal, Akshaya Devadiga...
+   Date: 2025-12-23
+   Categories: cs.AI
+
+168. Explainable time-series forecasting with sampling-free SHAP for Transformers
+   ID: 2512.20514v1
+   Authors: Matthias Hertel, Sebastian Pütz, Ralf Mikut...
+   Date: 2025-12-23
+   Categories: cs.LG
+
+169. Recurrent Off-Policy Deep Reinforcement Learning Doesn't Have to be Slow
+   ID: 2512.20513v1
+   Authors: Tyler Clark, Christine Evers, Jonathon Hare
+   Date: 2025-12-23
+   Categories: cs.LG
+
+170. Step-DeepResearch Technical Report
+   ID: 2512.20491v2
+   Authors: Chen Hu, Haikuo Du, Heng Wang...
+   Date: 2025-12-23
+   Categories: cs.CL
+
+171. SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization
+   ID: 2512.20482v1
+   Authors: Revanth Gangi Reddy, Ye Liu, Wenting Zhao...
+   Date: 2025-12-23
+   Categories: cs.SE, cs.AI
+
+172. Coherence in the brain unfolds across separable temporal regimes
+   ID: 2512.20481v2
+   Authors: Davide Stauba, Finn Rabe, Akhil Misra...
+   Date: 2025-12-23
+   Categories: q-bio.NC, cs.CL
+
+173. Bohrium + SciMaster: Building the Infrastructure and Ecosystem for Agentic Science at Scale
+   ID: 2512.20469v1
+   Authors: Linfeng Zhang, Siheng Chen, Yuzhu Cai...
+   Date: 2025-12-23
+   Categories: cs.AI
+
+174. The Aligned Economic Index & The State Switching Model
+   ID: 2512.20460v1
+   Authors: Ilias Aarab
+   Date: 2025-12-23
+   Categories: q-fin.ST, cs.LG, econ.EM, q-fin.PM, stat.AP
+
+175. Laser: Governing Long-Horizon Agentic Search via Structured Protocol and Context Register
+   ID: 2512.20458v1
+   Authors: Shuting Wang, Qiaolin Xia, Hao Wang...
+   Date: 2025-12-23
+   Categories: cs.IR
+
+176. Machine Learning to Predict Digital Frustration from Clickstream Data
+   ID: 2512.20438v1
+   Authors: Jibin Joseph
+   Date: 2025-12-23
+   Categories: cs.LG
+
+177. Dual-Encoder Transformer-Based Multimodal Learning for Ischemic Stroke Lesion Segmentation Using Diffusion MRI
+   ID: 2512.20436v1
+   Authors: Muhammad Usman, Azka Rehman, Muhammad Mutti Ur Rehman...
+   Date: 2025-12-23
+   Categories: eess.IV, cs.AI, cs.CV
+
+178. High Dimensional Data Decomposition for Anomaly Detection of Textured Images
+   ID: 2512.20432v1
+   Authors: Ji Song, Xing Wang, Jianguo Wu...
+   Date: 2025-12-23
+   Categories: cs.CV, stat.ML
+
+179. Evasion-Resilient Detection of DNS-over-HTTPS Data Exfiltration: A Practical Evaluation and Toolkit
+   ID: 2512.20423v1
+   Authors: Adam Elaoumari
+   Date: 2025-12-23
+   Categories: cs.CR, cs.AI, cs.NI
+
+180. Simplifying Multi-Task Architectures Through Task-Specific Normalization
+   ID: 2512.20420v1
+   Authors: Mihai Suteu, Ovidiu Serban
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI, cs.CV
+
+181. DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning
+   ID: 2512.20409v1
+   Authors: Junho Yoon, Jaemo Jung, Hyunju Kim...
+   Date: 2025-12-23
+   Categories: cs.CV, cs.AI
+
+182. AUDRON: A Deep Learning Framework with Fused Acoustic Signatures for Drone Type Recognition
+   ID: 2512.20407v1
+   Authors: Rajdeep Chatterjee, Sudip Chakrabarty, Trishaani Acharjee...
+   Date: 2025-12-23
+   Categories: cs.SD, cs.AI, cs.LG
+
+183. Sentiment-Aware Extractive and Abstractive Summarization for Unstructured Text Mining
+   ID: 2512.20404v1
+   Authors: Junyi Liu, Stanley Kok
+   Date: 2025-12-23
+   Categories: cs.CL
+
+184. BRIDGE: Budget-aware Reasoning via Intermediate Distillation with Guided Examples
+   ID: 2512.20403v1
+   Authors: Xuan-An Le, Minh-Nam Tran, Son Nguyen
+   Date: 2025-12-23
+   Categories: cs.LG
+
+185. GeoTransolver: Learning Physics on Irregular Domains Using Multi-scale Geometry Aware Physics Attention Transformer
+   ID: 2512.20399v2
+   Authors: Corey Adams, Rishikesh Ranade, Ram Cherukuri...
+   Date: 2025-12-23
+   Categories: cs.LG, physics.comp-ph
+
+186. Generative Digital Twins: Vision-Language Simulation Models for Executable Industrial Systems
+   ID: 2512.20387v1
+   Authors: YuChe Hsu, AnJui Wang, TsaiChing Ni...
+   Date: 2025-12-23
+   Categories: cs.AI, cs.CL, cs.CV
+
+187. Identifying Appropriately-Sized Services with Deep Reinforcement Learning
+   ID: 2512.20381v1
+   Authors: Syeda Tasnim Fabiha, Saad Shafiq, Wesley Klewerton Guez Assunção...
+   Date: 2025-12-23
+   Categories: cs.SE, cs.AI
+
+188. Avoiding the Price of Adaptivity: Inference in Linear Contextual Bandits via Stability
+   ID: 2512.20368v1
+   Authors: Samya Praharaj, Koulik Khamaru
+   Date: 2025-12-23
+   Categories: stat.ML, cs.IT, cs.LG, math.ST
+
+189. Clust-PSI-PFL: A Population Stability Index Approach for Clustered Non-IID Personalized Federated Learning
+   ID: 2512.20363v1
+   Authors: Daniel M. Jimenez-Gutierrez, Mehrdad Hassanzadeh, Aris Anagnostopoulos...
+   Date: 2025-12-23
+   Categories: cs.LG, cs.AI, cs.DC, stat.AP, stat.ML
+
+190. Multi-LLM Thematic Analysis with Dual Reliability Metrics: Combining Cohen's Kappa and Semantic Similarity for Qualitative Research Validation
+   ID: 2512.20352v1
+   Authors: Nilesh Jain, Seyi Adeyinka, Leor Roseman...
+   Date: 2025-12-23
+   Categories: cs.CL, cs.AI
+
+191. Field-Space Attention for Structure-Preserving Earth System Transformers
+   ID: 2512.20350v1
+   Authors: Maximilian Witte, Johannes Meuer, Étienne Plésiat...
+   Date: 2025-12-23
+   Categories: cs.LG, cs.CV, math-ph
+
+192. Physics-guided Neural Network-based Shaft Power Prediction for Vessels
+   ID: 2512.20348v1
+   Authors: Dogan Altan, Hamza Haruna Mohammed, Glenn Terje Lines...
+   Date: 2025-12-23
+   Categories: cs.LG
+
+193. Inverse Autoregressive Flows for Zero Degree Calorimeter fast simulation
+   ID: 2512.20346v1
+   Authors: Emilia Majerz, Witold Dzwinel, Jacek Kitowski
+   Date: 2025-12-23
+   Categories: cs.LG
+
+194. A DeepSeek-Powered AI System for Automated Chest Radiograph Interpretation in Clinical Practice
+   ID: 2512.20344v1
+   Authors: Yaowei Bai, Ruiheng Zhang, Yu Lei...
+   Date: 2025-12-23
+   Categories: cs.AI
+
+195. SynCraft: Guiding Large Language Models to Predict Edit Sequences for Molecular Synthesizability Optimization
+   ID: 2512.20333v1
+   Authors: Junren Li, Luhua Lai
+   Date: 2025-12-23
+   Categories: cs.AI, q-bio.QM
+
+196. FedDPC : Handling Data Heterogeneity and Partial Client Participation in Federated Learning
+   ID: 2512.20329v1
+   Authors: Mrinmay Sen, Subhrajit Nag
+   Date: 2025-12-23
+   Categories: cs.LG
+
+197. Toward Explaining Large Language Models in Software Engineering Tasks
+   ID: 2512.20328v1
+   Authors: Antonio Vitale, Khai-Nguyen Nguyen, Denys Poshyvanyk...
+   Date: 2025-12-23
+   Categories: cs.SE, cs.AI, cs.LG
+
+198. Top-K Exterior Power Persistent Homology: Algorithm, Structure, and Stability
+   ID: 2512.20325v1
+   Authors: Yoshihiro Maruyama
+   Date: 2025-12-23
+   Categories: cs.CG, cs.DM, cs.LG
+
+199. Can LLMs Solve My Grandma's Riddle? Evaluating Multilingual Large Language Models on Reasoning Traditional Bangla Tricky Riddles
+   ID: 2512.20324v1
+   Authors: Nurul Labib Sayeedi, Md. Faiyaz Abdullah Sayeedi, Khushnur Binte Jahangir...
+   Date: 2025-12-23
+   Categories: cs.CL
+
+200. Deep Learning Classification of EEG Responses to Multi-Dimensional Transcranial Electrical Stimulation
+   ID: 2512.20319v1
+   Authors: Alexis Pomares Pastor, Ines Ribeiro Violante, Gregory Scott
+   Date: 2025-12-23
+   Categories: q-bio.NC, cs.AI
+

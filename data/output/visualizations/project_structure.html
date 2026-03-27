@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LDA Methodology Workflow</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background: #ffffff;
+            display: flex;
+            justify-content: center;
+            padding: 30px;
+        }
+
+        .diagram {
+            width: 700px;
+        }
+
+        svg {
+            width: 100%;
+            height: auto;
+        }
+
+        .process-box {
+            fill: #ffffff;
+            stroke: #000000;
+            stroke-width: 1.5;
+        }
+
+        .terminal-box {
+            fill: #ffffff;
+            stroke: #000000;
+            stroke-width: 1.5;
+        }
+
+        .arrow-line {
+            stroke: #000000;
+            stroke-width: 1.5;
+            fill: none;
+        }
+
+        .arrow-head {
+            fill: #000000;
+        }
+
+        .label-text {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 13px;
+            font-weight: 600;
+            fill: #000000;
+            text-anchor: middle;
+        }
+
+        .sub-text {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 10px;
+            fill: #333333;
+            text-anchor: middle;
+        }
+
+        .figure-label {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 11px;
+            fill: #000000;
+            text-anchor: middle;
+            font-weight: 600;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="diagram">
+        <svg viewBox="0 0 700 720" xmlns="http://www.w3.org/2000/svg">
+            <!-- Start Terminal -->
+            <rect class="terminal-box" x="250" y="20" width="200" height="40" rx="20" ry="20" />
+            <text class="label-text" x="350" y="45">Data Collection</text>
+
+            <!-- Arrow 1 -->
+            <line class="arrow-line" x1="350" y1="60" x2="350" y2="90" />
+            <polygon class="arrow-head" points="350,95 345,85 355,85" />
+
+            <!-- Process 1 -->
+            <rect class="process-box" x="225" y="95" width="250" height="50" />
+            <text class="label-text" x="350" y="117">PDF Text Extraction</text>
+            <text class="sub-text" x="350" y="133">PyMuPDF (fitz)</text>
+
+            <!-- Arrow 2 -->
+            <line class="arrow-line" x1="350" y1="145" x2="350" y2="175" />
+            <polygon class="arrow-head" points="350,180 345,170 355,170" />
+
+            <!-- Process 2 -->
+            <rect class="process-box" x="225" y="180" width="250" height="50" />
+            <text class="label-text" x="350" y="202">Tokenization</text>
+            <text class="sub-text" x="350" y="218">NLTK word_tokenize</text>
+
+            <!-- Arrow 3 -->
+            <line class="arrow-line" x1="350" y1="230" x2="350" y2="260" />
+            <polygon class="arrow-head" points="350,265 345,255 355,255" />
+
+            <!-- Process 3 -->
+            <rect class="process-box" x="225" y="265" width="250" height="50" />
+            <text class="label-text" x="350" y="287">Stop Word Removal</text>
+            <text class="sub-text" x="350" y="303">229 terms (NLTK + custom)</text>
+
+            <!-- Arrow 4 -->
+            <line class="arrow-line" x1="350" y1="315" x2="350" y2="345" />
+            <polygon class="arrow-head" points="350,350 345,340 355,340" />
+
+            <!-- Process 4 -->
+            <rect class="process-box" x="225" y="350" width="250" height="50" />
+            <text class="label-text" x="350" y="372">Lemmatization</text>
+            <text class="sub-text" x="350" y="388">SpaCy en_core_web_sm</text>
+
+            <!-- Arrow 5 -->
+            <line class="arrow-line" x1="350" y1="400" x2="350" y2="430" />
+            <polygon class="arrow-head" points="350,435 345,425 355,425" />
+
+            <!-- Process 5 -->
+            <rect class="process-box" x="225" y="435" width="250" height="50" />
+            <text class="label-text" x="350" y="457">Bigram Detection</text>
+            <text class="sub-text" x="350" y="473">Gensim Phrases</text>
+
+            <!-- Arrow 6 -->
+            <line class="arrow-line" x1="350" y1="485" x2="350" y2="515" />
+            <polygon class="arrow-head" points="350,520 345,510 355,510" />
+
+            <!-- Process 6 -->
+            <rect class="process-box" x="225" y="520" width="250" height="50" />
+            <text class="label-text" x="350" y="542">LDA Model Training</text>
+            <text class="sub-text" x="350" y="558">K=10, α=auto, η=auto</text>
+
+            <!-- Arrow 7 - Split -->
+            <line class="arrow-line" x1="350" y1="570" x2="350" y2="590" />
+            <line class="arrow-line" x1="200" y1="590" x2="500" y2="590" />
+            <line class="arrow-line" x1="200" y1="590" x2="200" y2="610" />
+            <line class="arrow-line" x1="500" y1="590" x2="500" y2="610" />
+            <polygon class="arrow-head" points="200,615 195,605 205,605" />
+            <polygon class="arrow-head" points="500,615 495,605 505,605" />
+
+            <!-- Process 7a -->
+            <rect class="process-box" x="100" y="615" width="200" height="45" />
+            <text class="label-text" x="200" y="635">Topic Evaluation</text>
+            <text class="sub-text" x="200" y="650">C_v, Diversity, Perplexity</text>
+
+            <!-- Process 7b -->
+            <rect class="process-box" x="400" y="615" width="200" height="45" />
+            <text class="label-text" x="500" y="635">Visualization</text>
+            <text class="sub-text" x="500" y="650">pyLDAvis, Word Clouds</text>
+
+            <!-- Figure Label -->
+            <text class="figure-label" x="350" y="705">Figure 2: LDA Topic Modeling Methodology Workflow</text>
+        </svg>
+    </div>
+</body>
+
+</html>

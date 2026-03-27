@@ -1,0 +1,29 @@
+# LDA Topic Modeling for Research Papers
+# Based on Ahmed et al. (2022) methodology
+
+# Core NLP
+gensim>=4.3.0
+nltk>=3.8.0
+spacy>=3.7.0
+
+# PDF Extraction
+PyMuPDF>=1.23.0
+pdfplumber>=0.10.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+pyLDAvis>=3.4.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+wordcloud>=1.9.0
+scikit-learn>=1.3.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=7.4.0
